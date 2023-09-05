@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-merged_res-21:/layout_dialog_text.xml.flat",
+        "source": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-23:/layout/dialog_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-merged_res-21:\\layout_dialog_text.xml.flat",
+        "source": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-23:\\layout\\dialog_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-merged_res-21:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-pngs-16:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-merged_res-21:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-23:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-merged_res-21:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-23:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-merged_res-21:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-23:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-merged_res-21:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ikoko\\.gradle\\daemon\\8.0\\org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-main-23:\\drawable\\ic_launcher_background.xml"
+    }
+]

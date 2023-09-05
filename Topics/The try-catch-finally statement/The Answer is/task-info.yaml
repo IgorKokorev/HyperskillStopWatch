@@ -1,0 +1,16 @@
+type: code
+custom_name: The Answer is...
+files:
+  - name: src/main/Main.kt
+    visible: true
+    text: "fun main() {\n    val answer : Int = try { readLine()!!.toInt() } catch {\
+    \ 0 }\n        Finally { println(\"The answer is a number\") }   \n    println(answer)\n\
+    }"
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11813#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 05 Sep 2023 13:10:33 UTC"
+record: -1
+submission_language: kotlin

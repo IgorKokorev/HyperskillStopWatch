@@ -1,0 +1,4 @@
+#Tue Sep 05 16:04:39 CEST 2023
+base.0=E\:\\Dropbox\\Coding\\Skillfactory\\Stopwatch with Productivity Timer\\Stopwatch with Productivity Timer\\task\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
