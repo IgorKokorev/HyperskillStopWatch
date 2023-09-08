@@ -4,7 +4,7 @@
             "outputFile": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-mergeDebugResources-19:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ikoko\\.gradle\\caches\\transforms-3\\0c509a64767cb4a0bd9e3dc1c7e8784c\\transformed\\material-1.4.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "source": "/home/tamerlan/.gradle/caches/transforms-3/0c509a64767cb4a0bd9e3dc1c7e8784c/transformed/material-1.4.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

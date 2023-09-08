@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
     var isStarted: Boolean = false
     var seconds: Int = 0
     var limit = 0
+    lateinit var notificationService: NotificationService
 
     private val timer: Runnable = object : Runnable {
         override fun run() {
@@ -30,11 +31,11 @@ class MainActivity : AppCompatActivity() {
             handler.postDelayed(this, 1000)
             val color = Random.nextInt(256 * 256 * 256) + 256 * 256 * 256 * 255
 
-//            val green = Random.nextInt(256)
-//            val blue = Random.nextInt(256)
-//            binding.progressBar.indeterminateDrawable.setTint(color)
             binding.progressBar.indeterminateTintList = ColorStateList.valueOf(color)
-            if (limit > 0 && seconds > limit) binding.textView.setTextColor(Color.RED)
+            if (limit > 0 && seconds > limit) {
+                binding.textView.setTextColor(Color.RED)
+                notificationService.sendNotification(R.drawable.ic_launcher_foreground, "Title", "Text")
+            }
             if (isStarted) seconds++
         }
     }
@@ -44,6 +45,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         binding.textView.text = "00:00"
+
+        notificationService = NotificationService(this)
 
         binding.startButton.setOnClickListener {
             if(!isStarted) {

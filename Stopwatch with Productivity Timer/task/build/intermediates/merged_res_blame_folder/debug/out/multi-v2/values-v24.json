@@ -4,7 +4,7 @@
             "outputFile": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-mergeDebugResources-19:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ikoko\\.gradle\\caches\\transforms-3\\98bd4bdf9e8b1757f01d686be07bbc04\\transformed\\appcompat-1.3.1\\res\\values-v24\\values-v24.xml",
+                    "source": "/home/tamerlan/.gradle/caches/transforms-3/98bd4bdf9e8b1757f01d686be07bbc04/transformed/appcompat-1.3.1/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
